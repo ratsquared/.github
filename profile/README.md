@@ -11,3 +11,7 @@ The organisation for the Rat² smart grid.
 - [PV-Cell](https://github.com/ratsquared/PV-Cell) - the MPPT algorithm for the solar panel
 - [Programmable-load](https://github.com/ratsquared/Programmable-load) - a load driver
 - [Load](https://github.com/ratsquared/Load) - another load driver
+
+---
+
+- [backend-api](https://github.com/ratsquared/backend-api) - the documentation for the backend/`tail` API
